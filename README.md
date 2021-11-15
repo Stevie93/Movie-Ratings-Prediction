@@ -3,6 +3,7 @@
 This project was completed by 4 [WPI](https://wpi.edu) students in a Data Science assignment.
 
 #### -- Project Status: [Completed]
+#### -- Project file: [Main.ipynb](https://github.com/Stevie93/Movie-Ratings-Prediction/blob/main/Main.ipynb)
 
 ## Project Details
 
